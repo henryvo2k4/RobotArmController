@@ -1,0 +1,6 @@
+{
+  "name": "Robot Arm Controller",
+  "description": "Bluetooth Classic SPP controller for 6DOF Robot Arm",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
